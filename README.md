@@ -16,4 +16,4 @@ AdobeAir向けnendネイティブ拡張のリリースリポジトリです。
 * [sample](https://github.com/fan-ADN/nendSDK-AdobeAir)
 
 ## License
-Copyright (C) F@N Communications, Inc.
+Copyright (C) FAN Communications, Inc.
